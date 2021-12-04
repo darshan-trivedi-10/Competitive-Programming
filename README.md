@@ -8,3 +8,10 @@
 - [Distribute Candies](https://leetcode.com/problems/distribute-candies/)
 - [Bulls and Cows](https://leetcode.com/problems/bulls-and-cows/)
 - [Smallest Range Covering Elements from K Lists](https://leetcode.com/problems/smallest-range-covering-elements-from-k-lists/)
+
+## 2. Bitmanipulation Basic 0️⃣1️⃣
+- [Power of Four](https://leetcode.com/problems/power-of-four/)
+- [Decode XORed Array](https://leetcode.com/problems/decode-xored-array/)
+- [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
+- [Longest Consecutive 1's](https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1)
+- [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
