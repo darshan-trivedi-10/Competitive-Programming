@@ -15,3 +15,7 @@
 - [Sort Integers by The Number of 1 Bits](https://leetcode.com/problems/sort-integers-by-the-number-of-1-bits/)
 - [Longest Consecutive 1's](https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1)
 - [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
+
+## 3. Bitmanipulation Practise Problems0️⃣1️⃣
+- [Single Number](https://www.interviewbit.com/problems/single-number/)
+- [Single Number II](https://www.interviewbit.com/problems/single-number-ii/)
