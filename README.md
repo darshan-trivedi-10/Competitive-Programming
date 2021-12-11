@@ -18,4 +18,5 @@
 
 ## 3. Bitmanipulation Practise Problems0️⃣1️⃣
 - [Single Number](https://www.interviewbit.com/problems/single-number/)
+- [Non Repeating Numbers](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1)
 - [Single Number II](https://www.interviewbit.com/problems/single-number-ii/)
