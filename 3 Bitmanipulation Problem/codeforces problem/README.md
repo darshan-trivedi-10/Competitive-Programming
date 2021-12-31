@@ -1,1 +1,30 @@
 # Bit - manipulation Problem From Codeforces
+ **1000 - 1400** Rating Problem
+- [Problem - 535B](https://codeforces.com/problemset/problem/535/B)
+- [Problem - 1420B](https://codeforces.com/problemset/problem/1420/B)
+- [Problem - 1362C](https://codeforces.com/problemset/problem/1362/C)
+- [Problem - 1566C](https://codeforces.com/problemset/problem/1566/C)
+- [Problem - 1312C](https://codeforces.com/problemset/problem/1312/C)
+- [Problem - 1553C](https://codeforces.com/problemset/problem/1553/C)
+- [Problem - 550B](https://codeforces.com/problemset/problem/550/B)
+- [Problem - 1547D](https://codeforces.com/problemset/problem/1547/D)
+- [Problem - 743B](https://codeforces.com/problemset/problem/743/B)
+- [Problem - 1095 C](https://codeforces.com/problemset/problem/1095/C)
+- [Problem - 1270C](https://codeforces.com/problemset/problem/1270/C)
+- [Problem - 1042B](https://codeforces.com/problemset/problem/1042/B)
+
+ **Easy** CF Problem
+- [Problem - 579A](https://codeforces.com/problemset/problem/579/A)
+- [Problem - 467B](https://codeforces.com/problemset/problem/467/B)
+- [Problem - 476B](https://codeforces.com/problemset/problem/476/B)
+- [Problem - 1559A](https://codeforces.com/problemset/problem/1559/A)
+- [Problem - 1494A](https://codeforces.com/problemset/problem/1494/A)
+- [Problem - 1097B](https://codeforces.com/problemset/problem/1097/B)
+- [Problem - 1567B](https://codeforces.com/problemset/problem/1567/B)
+- [Problem - 1362B](https://codeforces.com/problemset/problem/1362/B)
+- [Problem - 1514B](https://codeforces.com/problemset/problem/1514/B)
+- [Problem - 1513B](https://codeforces.com/problemset/problem/1513/B)   
+- [Problem - 912B](https://codeforces.com/problemset/problem/912/B)
+- [Problem - 1494B](https://codeforces.com/problemset/problem/1494/B)  
+- [Problem - 1463B](https://codeforces.com/problemset/problem/1463/B)
+
