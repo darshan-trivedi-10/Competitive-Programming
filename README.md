@@ -16,7 +16,7 @@
 - [Longest Consecutive 1's](https://practice.geeksforgeeks.org/problems/longest-consecutive-1s-1587115620/1)
 - [Hamming Distance](https://leetcode.com/problems/hamming-distance/)
 
-## 3. Bitmanipulation Practise Problems0️⃣1️⃣
+## 3. Bitmanipulation Practise Problems🔢
 - [Single Number](https://www.interviewbit.com/problems/single-number/)
 - [Non Repeating Numbers](https://practice.geeksforgeeks.org/problems/finding-the-numbers0215/1)
 - [Single Number II](https://www.interviewbit.com/problems/single-number-ii/)
@@ -30,3 +30,11 @@
 
 ## 4. Bitmanipulation CF Practise Problems0️⃣1️⃣
 - [Bitmanipulation CF Problem](https://github.com/darshan-trivedi-10/Competitive-Programming/tree/main/3%20Bitmanipulation%20Problem/codeforces%20problem#readme)
+
+## 5. Maths/Big Integer🤓💯📚
+- [ADDXL](https://www.codechef.com/UAPRAC/problems/ADDXL)
+- [JULKA](https://www.spoj.com/problems/JULKA)
+
+## 6. Maths/Combinatorics CF Practise Problem 🏫👩‍🏫📚📐
+ 
+
