@@ -33,5 +33,16 @@
 - [ADDXL](https://www.codechef.com/UAPRAC/problems/ADDXL)
 - [JULKA](https://www.spoj.com/problems/JULKA)
 
+## 5.2 Maths - Linear Recurrence & Matrix Exponentiation ▧
+- [C - POW](https://atcoder.jp/contests/abc205/tasks/abc205_c)
+- [Magic of the Locker](https://www.spoj.com/problems/LOCKER/)
+- [Strange Function - Binary Exponentation Problem | CodeChef](https://www.codechef.com/problems/ABX01)
+- [SPOJ.com - Problem SEQ](https://www.spoj.com/problems/SEQ/)
+- [SPOJ.com - Problem SPP](https://www.spoj.com/problems/SPP/)
+- [SPOJ.com - Problem SPP3](https://www.spoj.com/problems/SPP3/)
+- [SPOJ.com - Problem SPP2](https://www.spoj.com/problems/SPP2/)
+- [SPOJ.com - Problem FIBOSUM](https://www.spoj.com/problems/FIBOSUM/)
+
+
 
 
