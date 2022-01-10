@@ -27,9 +27,7 @@
 - [Total Hamming Distance](https://leetcode.com/problems/total-hamming-distance/)
 - [Decode XORed Permutation](https://leetcode.com/problems/decode-xored-permutation/)
 - [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/)
-
-## 4. Bitmanipulation CF Practise Problems0️⃣1️⃣
-- [Bitmanipulation CF Problem](https://github.com/darshan-trivedi-10/Competitive-Programming/tree/main/3%20Bitmanipulation%20Problem/codeforces%20problem#readme)
+- **[Bitmanipulation CF Problem](https://github.com/darshan-trivedi-10/Competitive-Programming/tree/main/3%20Bitmanipulation%20Problem/codeforces%20problem#readme)**
 
 ## 5.1 Maths - Big Integer 📚💯
 - [ADDXL](https://www.codechef.com/UAPRAC/problems/ADDXL)
