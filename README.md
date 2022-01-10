@@ -31,11 +31,9 @@
 ## 4. Bitmanipulation CF Practise Problems0️⃣1️⃣
 - [Bitmanipulation CF Problem](https://github.com/darshan-trivedi-10/Competitive-Programming/tree/main/3%20Bitmanipulation%20Problem/codeforces%20problem#readme)
 
-## 5. Maths - Big Integer🤓💯📚
+## 5.1 Maths - Big Integer 📚💯
 - [ADDXL](https://www.codechef.com/UAPRAC/problems/ADDXL)
 - [JULKA](https://www.spoj.com/problems/JULKA)
 
-## 6. Maths - Combinatorics CF Practise Problem 🏫👩‍🏫📚📐
-- [Combinatorics CF Problem](https://github.com/darshan-trivedi-10/Competitive-Programming/tree/main/4%20Maths/2%20Combinatorics/Codeforces%20Problem#readme)
- 
+
 
