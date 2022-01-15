@@ -29,7 +29,7 @@
 - [x] [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/)
 - [x] **[Bitmanipulation CF Problem](https://github.com/darshan-trivedi-10/Competitive-Programming/tree/main/3%20Bitmanipulation%20Problem/codeforces%20problem#readme)**
 
-<details><summary><strong><b>5. Maths For Competitive Programming</b></strong></summary> 
+<details><summary><strong><b>5. Maths For Competitive Programming 📐📏</b></strong></summary> 
 
 ## 5.1 Maths - Big Integer 📚💯
 - [x] [ADDXL](https://www.codechef.com/UAPRAC/problems/ADDXL)
