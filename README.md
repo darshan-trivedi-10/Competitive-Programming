@@ -49,6 +49,7 @@
 - [x] [Divisible Subset | CodeChef](https://www.codechef.com/problems/DIVSUBS)
 - [x] [The Gray-Similar Code | CodeChef](https://www.codechef.com/problems/GRAYSC)
 - [ ] [SPOJ.com - Problem HOLI](https://www.spoj.com/problems/HOLI/)
+- [x] [Problem - 1305C - Codeforces](https://codeforces.com/problemset/problem/1305/C)
 </details>
 
 
