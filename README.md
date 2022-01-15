@@ -43,6 +43,13 @@
 - [SPOJ.com - Problem SPP2](https://www.spoj.com/problems/SPP2/)
 - [SPOJ.com - Problem FIBOSUM](https://www.spoj.com/problems/FIBOSUM/)
 
+## 5.3 Maths - Pigeonhole Principle 🕊️
+- [Divisible Subset | CodeChef](https://www.codechef.com/problems/DIVSUBS)
+- [The Gray-Similar Code | CodeChef](https://www.codechef.com/problems/GRAYSC)
+- [SPOJ.com - Problem HOLI](https://www.spoj.com/problems/HOLI/)
+- [Sub-Array sum divisible by K ](https://practice.geeksforgeeks.org/problems/sub-array-sum-divisible-by-k2617/1/)
+
+
 
 
 
