@@ -29,6 +29,8 @@
 - [Find the Shortest Superstring](https://leetcode.com/problems/find-the-shortest-superstring/)
 - **[Bitmanipulation CF Problem](https://github.com/darshan-trivedi-10/Competitive-Programming/tree/main/3%20Bitmanipulation%20Problem/codeforces%20problem#readme)**
 
+<details><summary><strong><b>5. Maths For Competitive Programming</b></strong></summary> 
+
 ## 5.1 Maths - Big Integer 📚💯
 - [ADDXL](https://www.codechef.com/UAPRAC/problems/ADDXL)
 - [JULKA](https://www.spoj.com/problems/JULKA)
@@ -48,8 +50,8 @@
 - [The Gray-Similar Code | CodeChef](https://www.codechef.com/problems/GRAYSC)
 - [SPOJ.com - Problem HOLI](https://www.spoj.com/problems/HOLI/)
 - [Sub-Array sum divisible by K ](https://practice.geeksforgeeks.org/problems/sub-array-sum-divisible-by-k2617/1/)
-
-
+  
+</details>
 
 
 
