@@ -50,6 +50,8 @@
 - [x] [The Gray-Similar Code | CodeChef](https://www.codechef.com/problems/GRAYSC)
 - [ ] [SPOJ.com - Problem HOLI](https://www.spoj.com/problems/HOLI/)
 - [x] [Problem - 1305C - Codeforces](https://codeforces.com/problemset/problem/1305/C)
+- [x] [Decreasing Sequence](https://github.com/darshan-trivedi-10/Competitive-Programming/blob/main/4%20Maths/3%20Pigeonhole%20Principle/Decreasing_Sequence.cpp)
+- [x] [Subarray Sum Divisible by N](https://github.com/darshan-trivedi-10/Competitive-Programming/blob/main/4%20Maths/3%20Pigeonhole%20Principle/Subarray_Sum_Divisible_by_N.cpp)
 </details>
 
 
