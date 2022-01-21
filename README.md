@@ -55,4 +55,26 @@
 </details>
 
 
+<details><summary><strong><b>6. Number Theroy For Competitive Programming🔢</b></strong></summary> 
+
+ ## 6.1 - Prime Numbers & Factorisation 📘
+- [x] [Count Primes In Range ](https://practice.geeksforgeeks.org/problems/count-primes-in-range1604/1/)
+- [x] [Count Primes - LeetCode](https://leetcode.com/problems/count-primes/)
+- [ ] [Alice and candies | Practice Problems](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/lola-and-candies-36b57b1b/)
+- [ ] Prime Sum
+- [ ] [Closest Divisors - LeetCode](https://leetcode.com/problems/closest-divisors/)
+- [ ] [Min operations to reduce N by multiplying by any number or taking square root - GeeksforGeeks](https://www.geeksforgeeks.org/min-operations-to-reduce-n-by-multiplying-by-any-number-or-taking-square-root/)
+
+  
+  
+</details>
+
+
+
+
+
+
+
+
+
 
