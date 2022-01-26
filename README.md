@@ -60,6 +60,7 @@
  ## 6.1 - Prime Numbers & Factorisation 📘
 - [x] [Count Primes In Range ](https://practice.geeksforgeeks.org/problems/count-primes-in-range1604/1/)
 - [x] [Count Primes - LeetCode](https://leetcode.com/problems/count-primes/)
+- [x] [PRIME1 - Prime Generator](https://www.spoj.com/problems/PRIME1/) **Segmented Sieve**
 - [ ] [Alice and candies | Practice Problems](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/lola-and-candies-36b57b1b/)
 - [ ] Prime Sum
 - [ ] [Closest Divisors - LeetCode](https://leetcode.com/problems/closest-divisors/)
