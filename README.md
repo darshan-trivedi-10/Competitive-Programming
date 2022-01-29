@@ -68,8 +68,8 @@
 
 ## 6.2 - Extended Euclidean Algorithm & Applications 📘
 
-- [ ] [GCD2 | CodeChef](https://www.codechef.com/problems/GCD2)
-- [ ] [Largest number that divides x and is coprime with y](https://www.geeksforgeeks.org/largest-number-divides-x-co-prime-y/)
+- [x] [GCD2 | CodeChef](https://www.codechef.com/problems/GCD2)
+- [x] [Largest number that divides x and is coprime with y](https://www.geeksforgeeks.org/largest-number-divides-x-co-prime-y/)
 - [ ] [Problem - 992B - Codeforces](https://codeforces.com/problemset/problem/992/B)
 - [ ] [Problem - 1459C - Codeforces](https://codeforces.com/problemset/problem/1459/C)
   
