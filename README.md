@@ -62,11 +62,16 @@
 - [x] [Count Primes - LeetCode](https://leetcode.com/problems/count-primes/)
 - [x] [PRIME1 - Prime Generator](https://www.spoj.com/problems/PRIME1/) **Segmented Sieve**
 - [ ] [Alice and candies | Practice Problems](https://www.hackerearth.com/practice/math/number-theory/basic-number-theory-1/practice-problems/algorithm/lola-and-candies-36b57b1b/)
-- [ ] Prime Sum
-- [ ] [Closest Divisors - LeetCode](https://leetcode.com/problems/closest-divisors/)
+- [x] Prime Sum
+- [x] [Closest Divisors - LeetCode](https://leetcode.com/problems/closest-divisors/)
 - [ ] [Min operations to reduce N by multiplying by any number or taking square root - GeeksforGeeks](https://www.geeksforgeeks.org/min-operations-to-reduce-n-by-multiplying-by-any-number-or-taking-square-root/)
 
-  
+## 6.2 - Extended Euclidean Algorithm & Applications 📘
+
+- [ ] [GCD2 | CodeChef](https://www.codechef.com/problems/GCD2)
+- [ ] [Largest number that divides x and is coprime with y](https://www.geeksforgeeks.org/largest-number-divides-x-co-prime-y/)
+- [ ] [Problem - 992B - Codeforces](https://codeforces.com/problemset/problem/992/B)
+- [ ] [Problem - 1459C - Codeforces](https://codeforces.com/problemset/problem/1459/C)
   
 </details>
 
